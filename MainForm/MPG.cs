@@ -26,6 +26,10 @@ namespace MainForm
                 MessageBox.Show("Please enter valid numeric values for miles driven and gallons consumed.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+          private void exitButton_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
 
         private void label1_Click(object sender, EventArgs e)
         {
