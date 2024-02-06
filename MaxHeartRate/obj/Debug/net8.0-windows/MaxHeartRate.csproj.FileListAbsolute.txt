@@ -1,0 +1,17 @@
+C:\Users\zobai\source\repos\MaxHeartRate\bin\Debug\net8.0-windows\MaxHeartRate.exe
+C:\Users\zobai\source\repos\MaxHeartRate\bin\Debug\net8.0-windows\MaxHeartRate.deps.json
+C:\Users\zobai\source\repos\MaxHeartRate\bin\Debug\net8.0-windows\MaxHeartRate.runtimeconfig.json
+C:\Users\zobai\source\repos\MaxHeartRate\bin\Debug\net8.0-windows\MaxHeartRate.dll
+C:\Users\zobai\source\repos\MaxHeartRate\bin\Debug\net8.0-windows\MaxHeartRate.pdb
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\MaxHeartRate.Form1.resources
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\MaxHeartRate.csproj.GenerateResource.cache
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\MaxHeartRate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\MaxHeartRate.AssemblyInfoInputs.cache
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\MaxHeartRate.AssemblyInfo.cs
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\MaxHeartRate.csproj.CoreCompileInputs.cache
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\MaxHeartRate.dll
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\refint\MaxHeartRate.dll
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\MaxHeartRate.pdb
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\MaxHeartRate.genruntimeconfig.cache
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\ref\MaxHeartRate.dll
+C:\Users\zobai\source\repos\MaxHeartRate\obj\Debug\net8.0-windows\MainForm.MaxHeartRatecs.resources
