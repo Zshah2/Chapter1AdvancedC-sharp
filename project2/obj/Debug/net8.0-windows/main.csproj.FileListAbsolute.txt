@@ -1,0 +1,16 @@
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\main.HeartRateForm.resources
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\main.csproj.GenerateResource.cache
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\main.AssemblyInfoInputs.cache
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\main.AssemblyInfo.cs
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\main.csproj.CoreCompileInputs.cache
+C:\Users\zobai\source\repos\project2\bin\Debug\net8.0-windows\main.exe
+C:\Users\zobai\source\repos\project2\bin\Debug\net8.0-windows\main.deps.json
+C:\Users\zobai\source\repos\project2\bin\Debug\net8.0-windows\main.runtimeconfig.json
+C:\Users\zobai\source\repos\project2\bin\Debug\net8.0-windows\main.dll
+C:\Users\zobai\source\repos\project2\bin\Debug\net8.0-windows\main.pdb
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\main.dll
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\refint\main.dll
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\main.pdb
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\main.genruntimeconfig.cache
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\ref\main.dll

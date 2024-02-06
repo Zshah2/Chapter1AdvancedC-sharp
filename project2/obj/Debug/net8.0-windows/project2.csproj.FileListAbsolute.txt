@@ -1,0 +1,6 @@
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\HeartRateForm.resources
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\project2.csproj.GenerateResource.cache
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\project2.AssemblyInfoInputs.cache
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\project2.AssemblyInfo.cs
+C:\Users\zobai\source\repos\project2\obj\Debug\net8.0-windows\project2.csproj.CoreCompileInputs.cache
