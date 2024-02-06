@@ -32,6 +32,12 @@ namespace main
                 // Display an error message if the entered age is not a valid integer
                 resultLabel.Text = "Please enter a valid age";
             }
+            
+              private void exitButton_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
 
            
         }
